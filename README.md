@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abdulmanan21
 - 👀 I’m software engineer and MERN stack web developer
-- 🌱 I’m currently artificial intelligence ...
+- 🌱 I’m currently learning artificial intelligence ...
 - 📫 How to reach me ..
  You can reach me on 
 <!---
